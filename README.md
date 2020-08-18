@@ -10,7 +10,7 @@
 
 #### 目录
 - excel 存放excel配置表
-- config 存在ftl模板
+- config 存放ftl模板
 - codeOut 输出文件夹
 
 #### run
